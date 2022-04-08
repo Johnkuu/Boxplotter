@@ -9,11 +9,11 @@ from time import sleep
 try:
     dataFrame = pd.read_csv("data.csv")
 
-    # Create boxplot with number of observations and own title
+    # Create boxplot with number of observations (sample size) and own title
     noobs = dataFrame["Variables"].count()
     print("Please insert title for the graph: ")
     titleBoxplot = input()
-    titleNoobs = "N= ", noobs 
+    titleNoobs = "n= ", noobs 
 
     #Blue boxplot
     boxplot = dataFrame.boxplot(figsize = (5,5), showmeans=True, color = 'blue', vert=False)
