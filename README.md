@@ -3,10 +3,9 @@ Visualizes a data set from a csv- file as boxplot´s.
 Includes a executable file and python script.
 The .exe -file was created with pyinstaller
 ## This repo contains three files:
-- Python script
-- Executable file of the script
-- Sample data file
-
+- Python script (boxplotmaker.py)
+- Executable file of the script (boxplotmaker.exe)
+- Sample data file (data.csv)
 
 ## Instructions:
 + Save the exe -file to your folder
