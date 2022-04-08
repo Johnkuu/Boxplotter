@@ -1,4 +1,4 @@
-# Boxplotter
+# Simple boxplot creator
 Visualizes a data set from a csv- file as boxplot´s.
 Includes a executable file and python script.
 The .exe -file was created with pyinstaller
