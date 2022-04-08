@@ -1,6 +1,7 @@
 # Boxplotter
-Creates boxplotter from a csv- file. Includes a executable file and the script in py -file.
-The .exe -file is created with pyinstaller
+Visualizes a data set from a csv- file as boxplot´s.
+Includes a executable file and python script.
+The .exe -file was created with pyinstaller
 ## This repo contains three files:
 - Python script
 - Executable file of the script
